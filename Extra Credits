@@ -1,0 +1,46 @@
+html
+
+<!-- Card 2 -->
+
+            <div class="card">
+                <div class="card-img">
+                    <img src="Sunny.jpg" alt="User 2">
+                </div>
+                <div class="card-info">
+                    <h2 class="card-name">Jyoti Thakur</h2>
+                    <p class="card-role">Co-Founder</p>
+                    <p class="card-email">jyotithakur@gmail.com</p>
+                    <p><button class="button">Contact</button></p>
+                </div>
+            </div>
+
+            <!-- Card 3 -->
+
+            <div class="card">
+                <div class="card-img">
+                  <img src="Harshita.jpg" alt="User 3">
+              </div>
+              <div class="card-info">
+                  <h2 class="card-name">Harshita</h2>
+                  <p class="card-role">Co-Founder</p>
+                  <p class="card-email">harshita@gmail.com</p>
+                  <p><button class="button">Contact</button></p>
+              </div>
+          </div>
+
+            <!-- Card 4 -->
+
+            <div class="card">
+                <div class="card-img">
+                    <img src="Harsha.jpg" alt="User 4">
+                </div>
+                <div class="card-info">
+                    <h2 class="card-name">Harsha</h2>
+                    <p class="card-role">Co-Founder</p>
+                    <p class="card-email">harsha@gmail.com</p>
+                    <p><button class="button">Contact</button></p>
+                </div>
+            </div>
+
+
+            
